@@ -76,7 +76,10 @@ else:
  
 
 # Output : 
-![fitting poisson](https://github.com/23003250/Poisson_distribution/assets/139331462/58c54bed-76e0-497a-8fbe-5db82d88c2f5)
+![poisson program](https://github.com/23003250/Poisson_distribution/assets/139331462/8bbe90f8-3fa1-4838-8e60-f19f5b2dfa18)
+
+![poisson output](https://github.com/23003250/Poisson_distribution/assets/139331462/babfcb5a-2b81-4ba7-b8ee-b18f278fbad2)
+
 
 
 
